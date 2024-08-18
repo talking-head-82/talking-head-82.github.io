@@ -14,6 +14,15 @@
 	100% { -webkit-filter: grayscale(0%); }
 }
 
+.programm-box {
+	background: #444;
+	border-color: #555;
+	color: #eaeaea;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 10px;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1466,7 +1475,7 @@ input, select, textarea {
 			position: relative;
 			opacity: 1.0;
 			margin: 10px;
-			border: 2px solid #d4ae18;
+			border: 1px solid #888;
 		}
 
 			.gallery article .image {
@@ -2064,6 +2073,9 @@ input, select, textarea {
 
 			.main.style3 .content > header {
 				margin-bottom: 2em;
+				h2 {
+					color: #fff;
+				}
 			}
 
 			.main.style3.primary {
@@ -2074,7 +2086,10 @@ input, select, textarea {
 			}
 
 			.main.style3.secondary {
-				background: #f5f6f7;
+				background: #eaeaea;
+			}
+			.main.style3.secondary > .content h2 {
+				color: #222;
 			}
 
 		.main.dark {
@@ -2313,6 +2328,8 @@ input, select, textarea {
 			-ms-transform: translateY(0);
 			transform: translateY(0);
 			position: relative;
+			background: #eaeaea;
+
 		}
 
 		#contact.inactive .box {

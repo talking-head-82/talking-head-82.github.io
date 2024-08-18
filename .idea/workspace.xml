@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b305fa2-a042-4980-87f0-a5b9d4f7d57b" name="Changes" comment="images.">
-      <change afterPath="$PROJECT_DIR$/assets/css/images/texture.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/intro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/one.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/two.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +63,23 @@
       <option name="presentableId" value="Default" />
       <updated>1704884092763</updated>
     </task>
+    <task id="LOCAL-00001" summary="images.">
+      <option name="closed" value="true" />
+      <created>1723980052011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723980052011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="images.">
+      <option name="closed" value="true" />
+      <created>1723980092324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723980092325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
